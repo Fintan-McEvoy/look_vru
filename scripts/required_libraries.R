@@ -1,13 +1,13 @@
 # Load required libraries
 
 library(oro.dicom)
-library(rlist)
+#library(rlist)
 
 
 # Suppress package startup messages
 suppressPackageStartupMessages({
 	library(oro.dicom)  
-	library(rlist)  
+	#library(rlist)  
 	})
 	
 message("Modules imported successfully.")
