@@ -76,6 +76,11 @@ plot(raster_obj,
      ylim = c(0, nrow(raster_original_img_flipped)),
      asp = 1)
     
+#return plotting parameters to keep aspect ratio
+    
+
+
+    
 }
 
 message("Functions imported successfully.")
